@@ -9,11 +9,11 @@ public class Data {
         this.date = date;
     }
 
-    public String gettime() {
+    public String getTime() {
         return time;
     }
 
-    public String getdate() {
+    public String getDate() {
         return date;
     }
 }
